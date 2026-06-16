@@ -1,6 +1,6 @@
 {
-  "name": "url-deep-trace",
-  "version": "1.0.2",
+  "name": "@fazelstudio/url-deep-trace",
+  "version": "1.1.0",
   "description": "Advanced URL tracing engine with SSL forensics and security analysis - Optimized for performance",
   "main": "src/index.js",
   "type": "module",
@@ -29,7 +29,7 @@
     "threat-intelligence",
     "machine-learning"
   ],
-  "author": "fazelnotgg",
+  "author": "fazelllyyy",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.2",
@@ -50,6 +50,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fazelnotgg/url-deep-trace.git"
+    "url": "git+https://github.com/fazelllyyy/url-deep-trace.git"
   }
 }

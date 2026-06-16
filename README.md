@@ -1,4 +1,4 @@
-# url-deep-trace
+# @fazelstudio/url-deep-trace
 
 Enterprise-grade URL tracing engine with comprehensive security forensics, threat intelligence, machine learning classification, and compliance reporting. Designed for internal API services, SOC operations, and network security analysis.
 
